@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "3.17.4",
+    "express": "3.21.2",
     "proxy-addr": "2.0.7"
   },
   "//": "checkov:skip=CVE-2015-8315: CVE-2015-8315"
